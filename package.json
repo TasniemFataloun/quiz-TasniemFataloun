@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build && cpx quiz.html dist && cpx css/** dist/css",
+    "build": "tsc && vite build && cpx quiz.html dist",
     "preview": "vite preview"
   },
   "keywords": [],
